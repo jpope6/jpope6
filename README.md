@@ -3,9 +3,7 @@
 I'm Jared Pope, a 26-year-old junior at CSUF majoring in Computer Science with a 4.0 GPA. I have a strong interest in web development, game development, and AI, among other things.
 
 # Skills  
-HTML  
-Javascript  
-CSS  
+HTML, Javascript, CSS  
 Python  
 C++  
 Assembly  
