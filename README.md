@@ -23,28 +23,22 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jpope"/>
  </a>
 </p> -->
-<br />
 
 <!-- About Section -->
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  👋 &emsp; Computer Science student with a passion for coding and learning<br/>
  🎓 &emsp; Currently pursuing a Bachelor of Science in Computer Science (Expected Graduation: May 2024)<br/>
  💻 &emsp; Actively searching for a new grad software position<br/>
- 📧 &emsp; Reach me anytime: imthepope@csu.fullerton.edu<br/>
- 📄 &emsp; Check out here Resume here<br/>
+ 📧 &emsp; Reach me anytime: [imthepope@csu.fullerton.edu](mailto:imthepope@csu.fullerton.edu)<br/>
+ 📄 &emsp; Check out my Resume [here](https://github.com/jpope6/jpope6/blob/main/Jared_Pope_Resume.pdf)<br/>
 
 </p>
 
-<br/>
-<br/>
-<br/>
-
+## I have experience with
 <div align="left">
-<h3> I have experience with </h3>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="vertical-align:top; margin:4px">
