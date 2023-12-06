@@ -32,8 +32,8 @@
  👋 &emsp; Computer Science student with a passion for coding and learning<br/>
  🎓 &emsp; Currently pursuing a Bachelor of Science in Computer Science (Expected Graduation: May 2024)<br/>
  💻 &emsp; Actively searching for a new grad software position<br/>
- 📧 &emsp; Reach me anytime: [imthepope@csu.fullerton.edu](mailto:imthepope@csu.fullerton.edu)<br/>
- 📄 &emsp; Check out my Resume [here](https://github.com/jpope6/jpope6/blob/main/Jared_Pope_Resume.pdf)<br/>
+ 📧 &emsp; Reach me anytime: <a href="mailto:imthepope@csu.fullerton.edu" target="_blank">imthepope@csu.fullerton.edu</a><br/>
+ 📄 &emsp; Check out my Resume <a href="https://github.com/jpope6/jpope6/blob/main/Jared_Pope_Resume.pdf" target="_blank">here</a><br/><br/>
 
 </p>
 
@@ -58,10 +58,7 @@
 
 <br/>
 
-<br/>
-<hr/>
-<br/>
-
+## My Github Stats
  <p align="center">
   <a href="https://github.com/jpope6"><img alt="Jared's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jpope6&langs_count=8&hide=HTML,CSS&count_private=true&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 </p>
@@ -77,5 +74,3 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jpope6&theme=radical" alt="Jared's GitHub Contribution"/>
   </a>
 </p>
-
-  <br/>
