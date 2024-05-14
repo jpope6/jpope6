@@ -1,16 +1,15 @@
 <!-- Intro  -->
-<h3 align="center">
+<h1 align="center">
         <samp>&gt; Hello, World!, I am
                 <b><a target="_blank" href="https://github.com/jpope6">Jared Pope</a></b>
         </samp>
-</h3>
+</h1>
 
 
 <p align="center"> 
   <samp>
     <br>
-    「 Just a dude who likes to code. 」
-    <br>
+    Just a dude who likes to code.
     <br>
   </samp>
 </p>
