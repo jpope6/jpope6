@@ -8,7 +8,9 @@
 
 <h3 align="center"> 
     <br>
+    <samp>
     Just a dude who likes to code.
+    </samp>
     <br>
     <br>
 </h3>
